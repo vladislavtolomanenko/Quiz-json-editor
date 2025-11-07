@@ -7,5 +7,5 @@ export default defineConfig({
   // IMPORTANT: You must replace `<YOUR_REPOSITORY_NAME>` with the name of your GitHub repository.
   // For example, if your repository URL is `https://github.com/user/my-quiz-app`,
   // you should set `base` to `'/my-quiz-app/'`.
-  base: '/<YOUR_REPOSITORY_NAME>/',
+  base: '/Quiz-json-editor/',
 })

@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Quiz JSON Editor",
+  "description": "An application to visually edit a complex quiz JSON structure, including nested questions and options, and display the live JSON output.",
+  "requestFramePermissions": []
+}
